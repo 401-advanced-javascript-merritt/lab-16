@@ -6,7 +6,7 @@
 ## Lab 16
 ### Chris Merritt
 ### Links and Resources
-* [PR]()
+* [PR](https://github.com/401-advanced-javascript-merritt/lab-16/pull/1)
 
 
 #### Documentation
