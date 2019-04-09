@@ -2,7 +2,6 @@
 =================================================
 
 [![Build Status](https://www.travis-ci.com/401-advanced-javascript-merritt/lab-16.svg?branch=master)](https://www.travis-ci.com/401-advanced-javascript-merritt/lab-16)
-
 ## Lab 16
 ### Chris Merritt
 ### Links and Resources
